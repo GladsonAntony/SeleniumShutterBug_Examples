@@ -3,7 +3,7 @@
 <suite name="WebDriver Manager Suite">
   <test name="Test ShutterBug Capabilities">
     <classes>
-      <class name="examples.DemoScreenshotDefaultLocation"/>
+      <class name="examples.Test1_DefaultLocation"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
